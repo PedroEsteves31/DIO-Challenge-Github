@@ -1,0 +1,39 @@
+Introdução ao Git e GitHub
+
+
+Comandos básicos do terminal:
+
+Windows: *cd = navegar entre as pastas do sistema
+                   *dir = listar diretórios da pasta atual 
+                   *mkdir = criar um diretório
+                   *del = deletar arquivos de um diretório
+                   *rmdir = deletar um deretório
+                   *cls= = limpar a tela
+                   *echo = criar um arquivo
+
+Unix: *cd = navegar entre as pastas do sistema
+          *ls = listar diretórios da pasta atual 
+          *mkdir = criar um diretório
+          8rm = deletar um diretório 
+          *clear = limpar a tela
+          *echo = criar um arquivo
+
+
+Funcionaemnto do Git
+
+*SHA1: (Secure Hash Algorithm) ALgorítimo de encriptação, gera um conjundo único de caracteres de 40 dígitos dos dados criptografados.
+
+*Objetos: -BLOBS = Armazena metadados, o tipo, o tamanho do e o conteúdo.
+
+                 -TREEES = Resolve o problema de armazenar o nome de arquivo e também permite armazenar de forma conjunta um grupo de arquivos e também permite armazenar de forma conjunta um grupo de arquivos;
+          
+                 -COMMITS = Armazenar qualquer tipo de informações em formato binário.    
+
+
+Primeiros comandos:
+
+*git init;
+*git config;
+*git status;
+*git add;
+*git commit;
