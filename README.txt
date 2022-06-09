@@ -1,6 +1,6 @@
-# dio-callenge-github
+DIO Santander Bootcamp Fullstack Developer
 
- Anotações de estudo:
+Tópicos de estudos:
 
 *Introdução ao Git e GitHub;
-
+*Introdução a criação de HTML% e CSS3;
