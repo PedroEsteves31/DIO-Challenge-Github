@@ -1,2 +1,6 @@
 # dio-callenge-github
-Desafio de projeto sobre git/github (primeiro repositório)
+
+ Anotações de estudo:
+
+*Introdução ao Git e GitHub;
+
