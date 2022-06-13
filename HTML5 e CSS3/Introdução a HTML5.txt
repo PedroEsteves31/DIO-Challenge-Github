@@ -27,6 +27,7 @@ sobre CSS - e o título da página com a tag title.
 E dentro da tag body colocamos todo o conteúdo visível ao usuário: textos, imagens, vídeos.
 
 
+
 Semântica:
 
 A semântica nos permite descrever mais precisamente o nosso conteúdo, agora um bloco de texto 
@@ -70,4 +71,11 @@ Eles não foram criados na versão 5 do HTML e nem são específicos para semân
 São utilizados para marcar a importância dos títulos, sendo <h1> o mais importante e <h6> o menos. Uma dica: use apenas
 um <h1> por página, pois ele representa o objetivo da sua página.
 
-...
+
+
+Textos e Links:
+
+O <p> representa um parágrafo, mas ele não suporta apenas texto, podemos adicionar imagens, código, vídeos e vários outros 
+tipos de conteúdo dentro dele. Outro elemento necessário na web é o <a> - que significa anchor/âncora, ele representa 
+um hyperlink, é ele que interliga vários conteúdos e páginas na web.
+

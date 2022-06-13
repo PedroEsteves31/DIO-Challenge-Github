@@ -1,0 +1,26 @@
+CSS
+
+
+Definição e seletores:
+
+Uma regra CSS é representada por um seletor ou um grupo de seletores,então dentro de um par de
+chaves adicionamos as declarações.
+
+
+ID x Classe
+
+ID: é representado pelo símbolo # (hash) seguido de um nome para esse ID. O ID só pode ser usado 
+uma vez em uma página HTML enquanto a classe não tem restrições.
+
+
+Box-model:
+
+O layout de um site o navegador representa cada elemento HTML como uma caixa retangular, O box-model, 
+na qual podemos alterar a largura, altura, cor de fundo, etc. Essa caixa é composta por 4 áreas: o 
+conteúdo, o padding, a borda e a margem.
+
+* As margens (margin) são espaçamentos entre elementos;
+* As bordas (border) ;
+* O padding é um espaçamento entre as bordas e o conteúdo, a diferença para as margens é que declarações de imagem de fundo funcionam nele;
+* O conteúdo (content) é o que o seu bloco representa, um texto, uma imagem, um vídeo;
+
