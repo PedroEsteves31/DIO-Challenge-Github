@@ -72,10 +72,10 @@ São utilizados para marcar a importância dos títulos, sendo <h1> o mais impor
 um <h1> por página, pois ele representa o objetivo da sua página.
 
 
-
 Textos e Links:
 
 O <p> representa um parágrafo, mas ele não suporta apenas texto, podemos adicionar imagens, código, vídeos e vários outros 
 tipos de conteúdo dentro dele. Outro elemento necessário na web é o <a> - que significa anchor/âncora, ele representa 
 um hyperlink, é ele que interliga vários conteúdos e páginas na web.
 
+...
