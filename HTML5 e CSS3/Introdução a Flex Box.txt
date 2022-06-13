@@ -1,0 +1,34 @@
+Flex Box
+
+
+Estrutura Básica 
+
+
+Flex Container:
+
+É a tag que emvolve os itens.
+
+
+Propriedades relacionadas
+
+*Display: Inicializador do container;
+*flex-directoin: Direciona os itens;
+*flex-wrap Quebra de linha;
+*flex-flow: Abreviação pro direction e wrap;
+*justify-content: Alinha os itens do container de acordo com a sua direçao;
+*align-items: Alinha os itens de acordo com o eixo do container;
+*align-cntent: Alimha as linhas do comtainer;
+
+
+Flex Item:
+
+São os elementos filhos diretos do Flex Container.
+
+Propriedades relacionadas
+
+*flex-grow: Define o fator de crescimento;
+*flex-basis: Define o tamanho inical do item antes da distribuição do espaço restante dentro do container;
+*flex-shrink: Define a capacidade de redução;
+*flex: Abreviação das propriedades listados acima;
+*order: Ordem de destribuição e listagem dos itens;
+*align-self: Define o alinhamento de um item específico de um item dentro do container ;
