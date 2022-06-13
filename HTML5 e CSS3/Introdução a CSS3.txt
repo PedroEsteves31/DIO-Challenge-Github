@@ -23,3 +23,5 @@ conteúdo, o padding, a borda e a margem.
 * As bordas (border) ;
 * O padding é um espaçamento entre as bordas e o conteúdo, a diferença para as margens é que declarações de imagem de fundo funcionam nele;
 * O conteúdo (content) é o que o seu bloco representa, um texto, uma imagem, um vídeo;
+
+...
